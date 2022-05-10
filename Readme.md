@@ -42,12 +42,12 @@ This product in blockchain offers decentralized, traceable, immutable, and Trans
 <a name="SolutionArchitecture"></a>
 ## Solution Architecture
 
-![Solution Architecture](https://github.com/Tewatia5355/LEAP-PROJECT/blob/main/info/SolArc.png?raw=true)
+![Solution Architecture](https://github.com/Tewatia5355/LEAP_PROJECT/blob/main/info/SolArc.png?raw=true)
 
 <a name="solutionModel"></a>
 ## Solution Model
 
-![Solution Model](https://github.com/Tewatia5355/LEAP-PROJECT/blob/main/info/SolModel.png?raw=true)
+![Solution Model](https://github.com/Tewatia5355/LEAP_PROJECT/blob/main/info/SolModel.png?raw=true)
 
 <a name="solutionBenefits"></a>
 ## Solution Benefits
@@ -77,17 +77,17 @@ Currently, these are the reason the existing solutions are inadequate
 
 #### Home Page
 
-![Home](https://github.com/Tewatia5355/LEAP-PROJECT/blob/main/Screenshots/Home.png?raw=true)
+![Home](https://github.com/Tewatia5355/LEAP_PROJECT/blob/main/Screenshots/Home.png?raw=true)
 <h6 align="center">Home Page</h6>
 ****
 #### Create Account
 
-![Create Account](https://github.com/Tewatia5355/LEAP-PROJECT/blob/main/Screenshots/CreateAcc.png?raw=true)
+![Create Account](https://github.com/Tewatia5355/LEAP_PROJECT/blob/main/Screenshots/CreateAcc.png?raw=true)
 <h6 align="center">Create Account</h6>
 
 ****
 
-![CMD Create Account](https://github.com/Tewatia5355/LEAP-PROJECT/blob/main/Screenshots/CMDCreateAcc.png?raw=true)
+![CMD Create Account](https://github.com/Tewatia5355/LEAP_PROJECT/blob/main/Screenshots/CMDCreateAcc.png?raw=true)
 <h6 align="center">Create Account Terminal</h6>
 
 ****
@@ -96,7 +96,7 @@ Currently, these are the reason the existing solutions are inadequate
 
 ****
 
-![New Booking](https://github.com/Tewatia5355/LEAP-PROJECT/blob/main/Screenshots/NewBooking.png?raw=true)
+![New Booking](https://github.com/Tewatia5355/LEAP_PROJECT/blob/main/Screenshots/NewBooking.png?raw=true)
 <h6 align="center">New Booking</h6>
 
 ****
@@ -104,7 +104,7 @@ Currently, these are the reason the existing solutions are inadequate
 
 #### View Account Balance
 
-![Home Page](https://github.com/Tewatia5355/LEAP-PROJECT/blob/main/Screenshots/VAB.png?raw=true)
+![Home Page](https://github.com/Tewatia5355/LEAP_PROJECT/blob/main/Screenshots/VAB.png?raw=true)
 <h6 align="center">View Account Balance</h6>
 
 ****
