@@ -13,8 +13,6 @@
 8. [Roadmap/Next Steps](#guide)
 9. [Authors](#author)
 
-### 🏠 [Homepage](https://achilles.cloudns.asia)
-
 <a name="problemStatement"></a>
 ## Problem Statement
 
