@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+    <title>New Booking</title>
+</head>
+<style>
+    .heading {
+        font-weight: 50;
+        font-size: 2em;
+        text-shadow: 1px 1px 4px black;
+    }
+</style>
+
+<body>
+
+    <div class="container" style="margin-top: 3%;">
+
+        <center>
+            <div class="row" class="form-group">
+
+                <div class="col-md-3"></div>
+                <div class="col-md-6, heading">
+                    <b> New Booking</b>
+                </div>
+                <div class="col-md-3"></div>
+            </div>
+            <form method="POST" enctype="multipart/form-data"
+                onsubmit="return confirm('New Booking in process!, Redirecting to home!!');">
+
+
+                <br>
+                <br>
+                <br>
+                <br>
+
+                <div class="row" class="form-group">
+
+                    <div class="col-md-2"></div>
+                    <div class="col-md-3"><b>Name:</b></div>
+                    <div class="col-md-4">
+                        <select name="name" class="form-select" aria-label="Default select example">
+                            <!-- <option selected>Open this select menu</option> -->
+                            <option value="1">Cust1</option>
+                            <option value="2">Cust2</option>
+                        </select>
+                    </div>
+                    <div class="col-md-3"></div>
+                </div>
+                <br>
+                <div class="row" class="form-group">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-3"><b>Host:</b></div>
+                    <div class="col-md-4">
+                        <select class="form-select" name="host" aria-label="Default select example">
+                            <!-- <option selected>Open this select menu</option> -->
+                            <option value="1">Airline</option>
+                            <option value="2">Hotel</option>
+                            <option value="2">Cab</option>
+
+                        </select>
+                    </div>
+                    <div class="col-md-3"></div>
+
+                </div>
+                <br>
+                <div class="row" class="form-group">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-3"><b>Amount:</b></div>
+                    <div class="col-md-4">
+                        <input type="number" class="form-control" name="amount">
+                    </div>
+                    <div class="col-md-3"></div>
+
+                </div>
+
+                <br>
+                <div class="row" class="form-group">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-3"><b>Redeem:</b></div>
+                    <div class="col-md-4">
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="redeem" value="0">
+                            <label class="form-check-label" for="flexRadioDefault1">
+                                NO
+                            </label>
+                        </div>
+                        <div class="form-check form-check-inline" style="margin-left: 20%;">
+                            <input class="form-check-input" type="radio" name="flexRadioDefault" checked value="1">
+                            <label class="form-check-label" for="flexRadioDefault2">
+                                YES
+                            </label>
+                        </div>
+                    </div>
+                    <div class="col-md-3"></div>
+
+                </div>
+                <br><br> <br>
+                <div class="row" class="form-group">
+                    <div class="col-md-5"></div>
+                    <div class="col-md-2">
+                        <button type="submit" class="btn btn-success"
+                            style="padding-left: 35px; padding-right: 35px;">Book</button>
+                    </div>
+                    <div class="col-md-3"></div>
+
+                </div>
+            </form>
+        </center>
+
+    </div>
+
+</body>
+
+</html>
