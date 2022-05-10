@@ -79,7 +79,9 @@ Currently, these are the reason the existing solutions are inadequate
 
 ![Home](https://github.com/Tewatia5355/LEAP_PROJECT/blob/main/Screenshots/Home.png?raw=true)
 <h6 align="center">Home Page</h6>
+
 ****
+
 #### Create Account
 
 ![Create Account](https://github.com/Tewatia5355/LEAP_PROJECT/blob/main/Screenshots/CreateAcc.png?raw=true)
